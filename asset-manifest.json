@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/socialapp-react-gitpages/static/css/main.a7212f10.css",
-    "main.js": "/socialapp-react-gitpages/static/js/main.69094b3d.js",
+    "main.js": "/socialapp-react-gitpages/static/js/main.d0edb6c7.js",
     "index.html": "/socialapp-react-gitpages/index.html",
     "main.a7212f10.css.map": "/socialapp-react-gitpages/static/css/main.a7212f10.css.map",
-    "main.69094b3d.js.map": "/socialapp-react-gitpages/static/js/main.69094b3d.js.map"
+    "main.d0edb6c7.js.map": "/socialapp-react-gitpages/static/js/main.d0edb6c7.js.map"
   },
   "entrypoints": [
     "static/css/main.a7212f10.css",
-    "static/js/main.69094b3d.js"
+    "static/js/main.d0edb6c7.js"
   ]
 }
