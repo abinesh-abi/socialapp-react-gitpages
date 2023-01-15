@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socialapp-react-gitpages/static/css/main.a7212f10.css",
+    "main.js": "/socialapp-react-gitpages/static/js/main.69094b3d.js",
+    "index.html": "/socialapp-react-gitpages/index.html",
+    "main.a7212f10.css.map": "/socialapp-react-gitpages/static/css/main.a7212f10.css.map",
+    "main.69094b3d.js.map": "/socialapp-react-gitpages/static/js/main.69094b3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7212f10.css",
+    "static/js/main.69094b3d.js"
+  ]
+}
